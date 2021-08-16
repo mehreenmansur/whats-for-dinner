@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc1efed1-9bef-4710-8512-9203b879fd9f" name="Default Changelist" comment="" />
+    <list default="true" id="cc1efed1-9bef-4710-8512-9203b879fd9f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/whats_for_dinner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/whats_for_dinner.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/home_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/javascript/components/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/javascript/components/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/javascript/components/Hello.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/javascript/components/Home.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/javascript/packs/Index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/javascript/packs/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/javascript/packs/application.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/javascript/packs/server_rendering.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/application/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/application/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/home/item.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/webpacker.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/webpacker.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,14 +51,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/javascript/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/controllers" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/javascript/components" />
-      <recent name="$PROJECT_DIR$/app/assets/javascripts/packs" />
       <recent name="$PROJECT_DIR$/app/controllers" />
+      <recent name="$PROJECT_DIR$/app/javascript/components" />
+      <recent name="$PROJECT_DIR$/app/javascript/packs" />
+      <recent name="$PROJECT_DIR$/app/assets/javascripts/packs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/javascript/packs" />
@@ -156,12 +179,24 @@
       <option name="presentableId" value="Default" />
       <updated>1629045258480</updated>
       <workItem from="1629045259865" duration="769000" />
-      <workItem from="1629047623788" duration="8493000" />
+      <workItem from="1629047623788" duration="29843000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Gemfile initial commit">
+      <created>1629109024992</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629109024992</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Gemfile initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Gemfile initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
